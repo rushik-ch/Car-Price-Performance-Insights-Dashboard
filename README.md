@@ -11,7 +11,7 @@ The dataset was cleaned and structured for analysis. Filters were applied to ana
 
 ### Data Visualization:
 
-Price Analysis: Maximum, minimum, and average prices of cars were compared across different brands.
+**Price Analysis**: Maximum, minimum, and average prices of cars were compared across different brands.
 
 Car Distribution: The number of cars manufactured over different years was plotted to observe trends.
 
