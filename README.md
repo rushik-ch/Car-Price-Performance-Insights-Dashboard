@@ -23,7 +23,7 @@ The dataset was cleaned and structured for analysis. Filters were applied to ana
 
 ## Key Findings
 
-**Car Pricing Trends**: Hyundai had the highest maximum price among brands, while other brands had varying price distributions.
+->**Car Pricing Trends**: Hyundai had the highest maximum price among brands, while other brands had varying price distributions.
 
 **Brand Popularity**: Volkswagen, Toyota, and Ford had the highest number of car models in the dataset.
 
@@ -32,3 +32,11 @@ The dataset was cleaned and structured for analysis. Filters were applied to ana
 **Transmission Impact**: Automatic transmission cars were generally more expensive than manual and semi-automatic cars.
 
 **Market Trends**: The number of cars manufactured each year showed a fluctuating trend with a slight increase in recent years.
+
+## Tools Used
+
+Microsoft Excel for data analysis and visualization.
+
+Pivot Tables and Charts for summarizing and analyzing data.
+
+Filtering and Sorting techniques to extract meaningful insights.
