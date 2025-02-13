@@ -1,17 +1,15 @@
 # Car-Price-Performance-Insights-Dashboard
-Project Overview
+## Project Overview
 
 This project focuses on analyzing car price and performance metrics using a dataset stored in a CSV file. The analysis was performed using Microsoft Excel, and an interactive dashboard was created to visualize key insights. The dashboard provides an overview of various factors affecting car pricing, mileage, distribution, and other parameters.
 
-Analysis Performed
+## Analysis Performed
 
-Filtering and Data Processing:
+### Filtering and Data Processing:
 
-The dataset was cleaned and structured for analysis.
+The dataset was cleaned and structured for analysis. Filters were applied to analyze car performance based on fuel type and the number of doors.
 
-Filters were applied to analyze car performance based on fuel type and the number of doors.
-
-Data Visualization:
+### Data Visualization:
 
 Price Analysis: Maximum, minimum, and average prices of cars were compared across different brands.
 
