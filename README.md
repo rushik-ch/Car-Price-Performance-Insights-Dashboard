@@ -3,6 +3,10 @@
 
 This project focuses on analyzing car price and performance metrics using a dataset stored in a CSV file. The analysis was performed using Microsoft Excel, and an interactive dashboard was created to visualize key insights. The dashboard provides an overview of various factors affecting car pricing, mileage, distribution, and other parameters.
 
+## 📸 Dashboard Screenshot  
+![dashboard (2)](![Dashboard](https://github.com/user-attachments/assets/509e0dc0-f48a-4f21-8f66-7d94a9dde371)
+)
+
 ## Analysis Performed
 
 ### Filtering and Data Processing:
